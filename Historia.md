@@ -6,7 +6,7 @@ Pizzeria Bella Napoli została założona w 1998 roku przez rodzinę Rossi, któ
 \
 <br />
 <br />
-
+&nbsp;
 
 <img src="włochy/2.jpg" width=300>
 Dzisiaj Bella Napoli jest jedną z najbardziej znanych pizzerii w mieście, znana ze swojego niezrównanego smaku i gościnności. Rodzina Rossi nadal prowadzi restaurację, dbając o zachowanie autentycznego włoskiego smaku i atmosfery. Ich receptury są starannie strzeżone i przekazywane z pokolenia na pokolenie.
