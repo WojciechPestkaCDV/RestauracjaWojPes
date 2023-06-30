@@ -2,6 +2,9 @@
 ## "Pizzeria Bella Napoli"
 
 ### Przystawki:
+Bruschetta - 15 zł
+Carpaccio z wołowiny - 25 zł
+Sałatka caprese - 18 zł
 
 <img src="zdjęcia-picek/2.jpg" width=300>
 Bruschetta - 15 zł
