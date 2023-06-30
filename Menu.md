@@ -17,12 +17,12 @@ Pizza Quattro Formaggi - 35 zł
 
 Pizza Verdura - 34 zł (sos pomidorowy, mozzarella, pieczarki, papryka, cebula, pomidory, czarne oliwki, oregano)
 
-Desery:
+### Desery:
 Tiramisu - 18 zł
 Panna cotta z owocami - 20 zł
 Sernik z borówkami - 22 zł
 
-Napoje:
+### Napoje:
 Coca-Cola - 8 zł
 Wino czerwone (lampka) - 15 zł
 Sok pomarańczowy - 10 zł
