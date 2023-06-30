@@ -1,7 +1,7 @@
-Menu Pizzerii 
-"Pizzeria Bella Napoli"
+# Menu Pizzerii 
+## "Pizzeria Bella Napoli"
 
-Przystawki:
+### Przystawki:
 
 <img src="zdjęcia-picek/2.jpg" width=300>
 Bruschetta - 15 zł
@@ -10,7 +10,7 @@ Carpaccio z wołowiny - 25 zł
 <img src="zdjęcia-picek/4.jpg" width=300>
 Sałatka caprese - 18 zł
 
-Dania główne:
+### Dania główne:
 Pizza Margherita - 28 zł
 Pizza Vegetariana - 32 zł
 Pizza Quattro Formaggi - 35 zł
