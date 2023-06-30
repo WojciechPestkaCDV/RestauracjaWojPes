@@ -2,4 +2,9 @@
 
 ## La Trattoria - Kontakt 
 
-La Trattoria to autentyczna włoska restauracja, której atmosfera i smak przeniosą Cię do serca Italii. Nasze wnętrze jest przytulne, zdobione rustykalnymi detalami i ciepłym oświetleniem. Oferujemy doskonałą kuchnię, przygotowaną przez doświadczonych szefów kuchni, którzy dbają o najwyższą jakość składników. Nasze dania to połączenie tradycyjnych włoskich smaków z innowacyjnym podejściem do gotowania. Zapraszamy do La Trattorii, aby rozkoszować się prawdziwie wyjątkowym doświadczeniem kulinarnej podróży do Włoch.
+Adres: ul. Włoska 10, 00-000 Miasto
+Telefon: 123 456 789
+E-mail: info@latrattoria.pl
+Godziny otwarcia:
+Poniedziałek - Piątek: 12:00 - 22:00
+Sobota - Niedziela: 14:00 - 23:00
