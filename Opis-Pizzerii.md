@@ -7,3 +7,4 @@ La Trattoria to autentyczna włoska restauracja, której atmosfera i smak przeni
 
 ## Oto kilka zdjęć lokalu 
 <img src="pizzeria/2.jpg" width=300px>
+<img src="pizzeria/3.jpg" width=300px>
