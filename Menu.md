@@ -5,6 +5,7 @@ Przystawki:
 
 <img src="zdjęcia-picek/2.jpg" width=300>
 Bruschetta - 15 zł
+<img src="zdjęcia-picek/3.jpg" width=300>
 Carpaccio z wołowiny - 25 zł
 Sałatka caprese - 18 zł
 
